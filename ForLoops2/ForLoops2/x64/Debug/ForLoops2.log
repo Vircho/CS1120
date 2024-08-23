@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\jlw31\Desktop\School\CS\ForLoops2\ForLoops2\main.c(51,31): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\jlw31\Desktop\School\CS\ForLoops2\ForLoops2\main.c(51,31): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\jlw31\Desktop\School\CS\ForLoops2\ForLoops2\main.c(55,39): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\jlw31\Desktop\School\CS\ForLoops2\ForLoops2\main.c(55,39): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  ForLoops2.vcxproj -> C:\Users\jlw31\Desktop\School\CS\ForLoops2\x64\Debug\ForLoops2.exe

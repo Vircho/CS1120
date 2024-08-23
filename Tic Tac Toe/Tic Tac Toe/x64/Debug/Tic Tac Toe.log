@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\jlw31\Desktop\School\A-CS\Tic Tac Toe\Tic Tac Toe\main.c(41,17): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\jlw31\Desktop\School\A-CS\Tic Tac Toe\Tic Tac Toe\main.c(41,17): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\jlw31\Desktop\School\A-CS\Tic Tac Toe\Tic Tac Toe\main.c(41,17): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\jlw31\Desktop\School\A-CS\Tic Tac Toe\Tic Tac Toe\main.c(41,17): message : this argument is used as a buffer size
+C:\Users\jlw31\Desktop\School\A-CS\Tic Tac Toe\Tic Tac Toe\main.c(81,13): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\jlw31\Desktop\School\A-CS\Tic Tac Toe\Tic Tac Toe\main.c(81,13): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\jlw31\Desktop\School\A-CS\Tic Tac Toe\Tic Tac Toe\main.c(84,13): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\jlw31\Desktop\School\A-CS\Tic Tac Toe\Tic Tac Toe\main.c(84,13): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  Tic Tac Toe.vcxproj -> C:\Users\jlw31\Desktop\School\A-CS\Tic Tac Toe\x64\Debug\Tic Tac Toe.exe

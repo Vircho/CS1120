@@ -1,0 +1,12 @@
+﻿  main.c
+C:\Users\jlw31\Desktop\School\StringBasics\StringBasics\main.c(40,30): warning C4047: 'function': 'int' differs in levels of indirection from 'char [2]'
+C:\Users\jlw31\Desktop\School\StringBasics\StringBasics\main.c(40,27): warning C4024: 'strchr': different types for formal and actual parameter 2
+C:\Users\jlw31\Desktop\School\StringBasics\StringBasics\main.c(44,16): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'int'
+C:\Users\jlw31\Desktop\School\StringBasics\StringBasics\main.c(44,16): warning C4313: 'printf': '%p' in format string conflicts with argument 1 of type 'int'
+C:\Users\jlw31\Desktop\School\StringBasics\StringBasics\main.c(47,16): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '__int64'
+C:\Users\jlw31\Desktop\School\StringBasics\StringBasics\main.c(47,16): message : consider using '%lld' in the format string
+C:\Users\jlw31\Desktop\School\StringBasics\StringBasics\main.c(47,16): message : consider using '%Id' in the format string
+C:\Users\jlw31\Desktop\School\StringBasics\StringBasics\main.c(47,16): message : consider using '%I64d' in the format string
+C:\Users\jlw31\Desktop\School\StringBasics\StringBasics\main.c(23,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jlw31\Desktop\School\StringBasics\StringBasics\main.c(46,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char'
+  StringBasics.vcxproj -> C:\Users\jlw31\Desktop\School\StringBasics\x64\Debug\StringBasics.exe

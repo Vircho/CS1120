@@ -1,0 +1,15 @@
+﻿  main.c
+C:\Users\jlw31\Desktop\School\CS\WriteFile\WriteFile\main.c(56,3): warning C4013: 'writeStudentToFile' undefined; assuming extern returning int
+C:\Users\jlw31\Desktop\School\CS\WriteFile\WriteFile\main.c(46,21): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jlw31\Desktop\School\CS\WriteFile\WriteFile\main.c(133,7): warning C4028: formal parameter 3 different from declaration
+C:\Users\jlw31\Desktop\School\CS\WriteFile\WriteFile\main.c(139,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\jlw31\Desktop\School\CS\WriteFile\WriteFile\main.c(139,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\jlw31\Desktop\School\CS\WriteFile\WriteFile\main.c(139,10): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\jlw31\Desktop\School\CS\WriteFile\WriteFile\main.c(139,10): message : this argument is used as a buffer size
+C:\Users\jlw31\Desktop\School\CS\WriteFile\WriteFile\main.c(142,36): warning C4047: 'function': 'char *' differs in levels of indirection from 'char'
+C:\Users\jlw31\Desktop\School\CS\WriteFile\WriteFile\main.c(142,25): warning C4024: 'isValid': different types for formal and actual parameter 2
+C:\Users\jlw31\Desktop\School\CS\WriteFile\WriteFile\main.c(148,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\jlw31\Desktop\School\CS\WriteFile\WriteFile\main.c(148,11): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\jlw31\Desktop\School\CS\WriteFile\WriteFile\main.c(148,11): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\jlw31\Desktop\School\CS\WriteFile\WriteFile\main.c(148,11): message : this argument is used as a buffer size
+C:\Users\jlw31\Desktop\School\CS\WriteFile\WriteFile\main.c(172,6): error C2371: 'writeStudentToFile': redefinition; different basic types

@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\jlw31\Desktop\School\CS\ArraysSize\ArraysSize\main.c(22,12): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+C:\Users\jlw31\Desktop\School\CS\ArraysSize\ArraysSize\main.c(22,12): message : consider using '%zu' in the format string
+C:\Users\jlw31\Desktop\School\CS\ArraysSize\ArraysSize\main.c(23,12): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+C:\Users\jlw31\Desktop\School\CS\ArraysSize\ArraysSize\main.c(23,12): message : consider using '%zu' in the format string
+C:\Users\jlw31\Desktop\School\CS\ArraysSize\ArraysSize\main.c(24,12): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'unsigned __int64'
+C:\Users\jlw31\Desktop\School\CS\ArraysSize\ArraysSize\main.c(24,12): message : consider using '%llu' in the format string
+C:\Users\jlw31\Desktop\School\CS\ArraysSize\ArraysSize\main.c(24,12): message : consider using '%Iu' in the format string
+C:\Users\jlw31\Desktop\School\CS\ArraysSize\ArraysSize\main.c(24,12): message : consider using '%I64u' in the format string
+  ArraysSize.vcxproj -> C:\Users\jlw31\Desktop\School\CS\ArraysSize\x64\Debug\ArraysSize.exe

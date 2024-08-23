@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\jlw31\Desktop\School\CS\UserDefinedDataTypes\UserDefinedDataTypes\main.c(36,29): warning C4305: '=': truncation from 'double' to 'float'
+  UserDefinedDataTypes.vcxproj -> C:\Users\jlw31\Desktop\School\CS\UserDefinedDataTypes\x64\Debug\UserDefinedDataTypes.exe

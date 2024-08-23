@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\jlw31\Desktop\School\CS\Distance\Distance\main.c(56,28): warning C4305: '*=': truncation from 'double' to 'float'
+  Distance.vcxproj -> C:\Users\jlw31\Desktop\School\CS\Distance\x64\Debug\Distance.exe

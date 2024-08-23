@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\jlw31\Desktop\School\Test\Test\main.c(22,37): warning C4047: '<': 'int' differs in levels of indirection from 'int [5]'
+  Test.vcxproj -> C:\Users\jlw31\Desktop\School\Test\x64\Debug\Test.exe

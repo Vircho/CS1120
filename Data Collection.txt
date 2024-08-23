@@ -1,0 +1,17 @@
+Collect Data:
+People with Blue: 9
+People without Blue: 15
+People 15-20: 18
+People 21-25: 6
+People 26-31:
+
+Calculate:
+Percent Wearing Blue: 37.5%
+Percent Not Wearing Blue: 62.5%
+Percent Wearing Red: Not Knowable
+
+Collect Data:
+People with Red: 2
+
+Calculate:
+Average Weight: Not Knowable

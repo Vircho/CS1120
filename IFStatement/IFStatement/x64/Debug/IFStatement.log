@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\jlw31\Desktop\School\CS\IFStatement\IFStatement\main.c(21,13): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\jlw31\Desktop\School\CS\IFStatement\IFStatement\main.c(21,13): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\jlw31\Desktop\School\CS\IFStatement\IFStatement\main.c(21,13): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\jlw31\Desktop\School\CS\IFStatement\IFStatement\main.c(21,13): message : this argument is used as a buffer size
+  IFStatement.vcxproj -> C:\Users\jlw31\Desktop\School\CS\IFStatement\x64\Debug\IFStatement.exe

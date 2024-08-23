@@ -1,0 +1,8 @@
+﻿  main.c
+D:\School\A-CS\Graded Exercise 12\Graded Exercise 12\main.c(44,18): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[100]'
+D:\School\A-CS\Graded Exercise 12\Graded Exercise 12\main.c(44,18): warning C4024: 'getValidMessage': different types for formal and actual parameter 1
+D:\School\A-CS\Graded Exercise 12\Graded Exercise 12\main.c(47,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\School\A-CS\Graded Exercise 12\Graded Exercise 12\main.c(129,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\School\A-CS\Graded Exercise 12\Graded Exercise 12\main.c(137,21): warning C4098: 'getValidMessage': 'void' function returning a value
+D:\School\A-CS\Graded Exercise 12\Graded Exercise 12\main.c(118,64): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Graded Exercise 12.vcxproj -> D:\School\A-CS\Graded Exercise 12\x64\Debug\Graded Exercise 12.exe

@@ -1,0 +1,16 @@
+﻿  main.c
+C:\Users\jlw31\Desktop\School\Programming Assignment 5\Programming Assignment 5\main.c(77,3): warning C4013: 'getmoveInfoBetweenPoints' undefined; assuming extern returning int
+C:\Users\jlw31\Desktop\School\Programming Assignment 5\Programming Assignment 5\main.c(45,6): warning C4101: 'numLines': unreferenced local variable
+C:\Users\jlw31\Desktop\School\Programming Assignment 5\Programming Assignment 5\main.c(46,6): warning C4101: 'points': unreferenced local variable
+C:\Users\jlw31\Desktop\School\Programming Assignment 5\Programming Assignment 5\main.c(116,22): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\jlw31\Desktop\School\Programming Assignment 5\Programming Assignment 5\main.c(122,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jlw31\Desktop\School\Programming Assignment 5\Programming Assignment 5\main.c(128,22): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\jlw31\Desktop\School\Programming Assignment 5\Programming Assignment 5\main.c(134,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jlw31\Desktop\School\Programming Assignment 5\Programming Assignment 5\main.c(157,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jlw31\Desktop\School\Programming Assignment 5\Programming Assignment 5\main.c(178,23): warning C4477: 'fprintf' : format string '%.4f' requires an argument of type 'double', but variadic argument 1 has type 'MoveInfo'
+C:\Users\jlw31\Desktop\School\Programming Assignment 5\Programming Assignment 5\main.c(178,23): warning C4473: 'fprintf' : not enough arguments passed for format string
+C:\Users\jlw31\Desktop\School\Programming Assignment 5\Programming Assignment 5\main.c(178,23): message : placeholders and their parameters expect 4 variadic arguments, but 1 were provided
+C:\Users\jlw31\Desktop\School\Programming Assignment 5\Programming Assignment 5\main.c(178,23): message : the missing variadic argument 2 is required by format string '%.4f'
+C:\Users\jlw31\Desktop\School\Programming Assignment 5\Programming Assignment 5\main.c(215,24): warning C4098: 'printFileContents': 'void' function returning a value
+main.obj : error LNK2019: unresolved external symbol getmoveInfoBetweenPoints referenced in function main
+C:\Users\jlw31\Desktop\School\Programming Assignment 5\x64\Debug\Programming Assignment 5.exe : fatal error LNK1120: 1 unresolved externals

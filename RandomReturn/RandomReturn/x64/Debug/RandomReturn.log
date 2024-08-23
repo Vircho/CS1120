@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\jlw31\Desktop\School\RandomReturn\RandomReturn\main.c(20,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jlw31\Desktop\School\RandomReturn\RandomReturn\main.c(23,46): warning C4013: 'getRandom' undefined; assuming extern returning int
+  RandomReturn.vcxproj -> C:\Users\jlw31\Desktop\School\RandomReturn\x64\Debug\RandomReturn.exe

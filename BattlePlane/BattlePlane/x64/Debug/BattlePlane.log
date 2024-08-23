@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\jlw31\Desktop\School\A-CS\BattlePlane\BattlePlane\main.c(21,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jlw31\Desktop\School\A-CS\BattlePlane\BattlePlane\main.c(22,20): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+C:\Users\jlw31\Desktop\School\A-CS\BattlePlane\BattlePlane\main.c(22,12): warning C4024: 'printf': different types for formal and actual parameter 1
+  BattlePlane.vcxproj -> C:\Users\jlw31\Desktop\School\A-CS\BattlePlane\x64\Debug\BattlePlane.exe

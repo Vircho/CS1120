@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\jlw31\Desktop\School\Programming Assignment 1\Programming Assignment 1\main.c(48,6): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jlw31\Desktop\School\Programming Assignment 1\Programming Assignment 1\main.c(50,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Programming Assignment 1.vcxproj -> C:\Users\jlw31\Desktop\School\Programming Assignment 1\x64\Debug\Programming Assignment 1.exe

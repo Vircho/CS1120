@@ -1,0 +1,33 @@
+/*
+    * File: main.c
+    * Author:
+    * Title:
+*/
+
+#define _CRT_SECURE_NO_WARNINGS
+
+#include <stdio.h>
+#include <stdlib.h>
+
+/*
+ *
+ */
+
+int main(int argc, char** argv)
+{
+
+
+
+
+    return (EXIT_SUCCESS);
+}
+// print the board
+    printf("     |     |     \n");
+    printf("  %c  |  %c  |  %c \n", squares[1], squares[2], squares[3]);
+    printf("_____|_____|_____\n");
+    printf("     |     |     \n");
+    printf("  %c  |  %c  |  %c\n", squares[4], squares[5], squares[6]);
+    printf("_____|_____|_____\n");
+    printf("     |     |     \n");
+    printf("  %c  |  %c  |  %c\n", squares[7], squares[8], squares[9]);
+    printf("     |     |     \n\n");

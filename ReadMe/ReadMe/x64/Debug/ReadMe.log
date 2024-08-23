@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\jlw31\Desktop\School\CS\ReadMe\ReadMe\main.c(87,25): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\jlw31\Desktop\School\CS\ReadMe\ReadMe\main.c(99,25): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\jlw31\Desktop\School\CS\ReadMe\ReadMe\main.c(105,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ReadMe.vcxproj -> C:\Users\jlw31\Desktop\School\CS\ReadMe\x64\Debug\ReadMe.exe
